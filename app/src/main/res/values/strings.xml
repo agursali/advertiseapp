@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">advertiseapp</string>
+    <string name="adunitadd">ca-app-pub-3022985114729929/1834927299</string>
+    <string name="interstitialadsunitID">ca-app-pub-3022985114729929/1363922493</string>
+    <string name="nativeads">ca-app-pub-3940256099942544/2177258514</string>
+    <string name="videoads">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
